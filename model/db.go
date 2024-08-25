@@ -9,7 +9,6 @@ import (
 )
 
 // 数据库链接的参数
-
 var db *gorm.DB
 var err error
 
